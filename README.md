@@ -1,5 +1,16 @@
 # Learning of Process Representations Using Recurrent Neural Networks
 
+## Project Files
+----------------------------------
+PPT                : https://docs.google.com/presentation/d/1lTgEOD1g5o2w4kFVh9_2ISgENjUCUaqB/edit?usp=sharing&ouid=100321335721317390801&rtpof=true&sd=true
+
+Replication (xlsx) : https://docs.google.com/spreadsheets/d/1v9QpH7e7VAu5iVoYAr555sW0STSiOyVe/edit?usp=sharing&ouid=100321335721317390801&rtpof=true&sd=true
+
+Dataset            : https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2415
+
+
+## Author's Description
+----------------------------------
 ## Setup
 Use Miniconda for the easiest way to setup an environment.
 
