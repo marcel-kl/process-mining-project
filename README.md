@@ -10,9 +10,9 @@ Dataset            : https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2415
 
 ### System Environment
 
-OS             : Windows 64-bit, MacOS M1
-Kernel         : Miniconda
-Environment    : Replearn (Author's owned environment)
+- OS             : Windows 64-bit, MacOS M1
+- Kernel         : Miniconda
+- Environment    : Replearn (Author's owned environment)
 
 ----------------------------------
 ## Author's Description
